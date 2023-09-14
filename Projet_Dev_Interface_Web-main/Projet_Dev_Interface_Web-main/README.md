@@ -1,6 +1,6 @@
 # Projet_Dev_Interface_Web
 
-THE GROUPE :
+GROUPE :
 -Baumont Théo
 -Joué Axel
 -Sauner Quentin
